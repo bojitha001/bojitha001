@@ -26,8 +26,6 @@
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🤔 I’m looking for help with Open source Contribution.
 - 💬 Ask me about Frontend Development.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I 💖 to code 24x7. 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="left">GitHub Stats:</h3>
 <br>
