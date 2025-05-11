@@ -15,20 +15,6 @@
 <br>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-<br>
-
-
-
-- 👨🏽‍💻 I’m currently a SE Undergrad student at University of Westminster .<br/>
-- 🔭 I’m currently working on Frontend Web Development.
-- 🌱 I’m currently learning Javascript.
-- 👯 I’m looking to collaborate with Fullstack Web Developers.
-- 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend Development.
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 ## Technologies currently using
 
 
